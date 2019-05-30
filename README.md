@@ -1,2 +1,2 @@
 # fillit
- [![Docker Pulls][badgetwitter]](https://twitter.com/zenko)
+[![Docker Pulls][badgedocker]](https://hub.docker.com/r/zenko/cloudserver)
